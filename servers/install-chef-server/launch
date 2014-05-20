@@ -1,0 +1,24 @@
+#!/bin/bash
+#
+# Connect to the given host (arg 2) as the given user (arg 1)
+# Copy over the install script from this directory
+# Run the install script
+#
+
+
+ARGS_EXPECTED=2
+
+if [[ $# -ne $ARGS_EXPECTED ]]; then
+  echo "Usage: `basename $0` user host"
+  exit 1
+fi
+
+if [[ ! -x ./install ]]; then
+  echo "Oops, [./install] is not executable !"
+  echo "Going to try an [chmod 755 ./install]"
+  chmod 755 ./install
+fi
+
+scp -p ./install $1@$2:~/install
+
+ssh $1@$2 "~/install"

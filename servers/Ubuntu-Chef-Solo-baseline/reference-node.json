@@ -1,0 +1,4 @@
+{
+ "recipes": [ "ubuntu" ],
+ "system": { "hostname": "" }
+}

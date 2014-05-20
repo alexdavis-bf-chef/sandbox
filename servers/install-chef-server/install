@@ -1,0 +1,43 @@
+#!/bin/bash
+#
+# Install the chef server
+#
+
+# Update the lists
+sudo apt-get update
+
+# Get curl so that we can download the opscode key
+sudo apt-get install curl
+
+# Create /etc/apt/sources.list.d/opscode.list
+# with the content:
+# deb http://apt.opscode.com/ "codename" main
+# Be careful about which version of ubuntu that you use 
+# as chef-server only works with very recent versions
+
+echo "deb http://apt.opscode.com/ $(lsb_release -sc) main" > /tmp/opscode.list;
+sudo mv /tmp/opscode.list /etc/apt/sources.list.d;
+sudo chown root:root /etc/apt/sources.list.d/opscode.list;
+
+# Before we can install the paqkages we need to add the Opscode PGP key to apt:
+curl http://apt.opscode.com/packages@opscode.com.gpg.key | sudo apt-key add -
+
+# Update the lists
+sudo apt-get update
+
+# Install the "basics" of Ruby
+sudo apt-get install ruby libopenssl-ruby rdoc ri irb build-essential wget
+
+# RubyGems - dependency of libchef-ruby1.8 which needs the RubyGems gem_package
+# Install RubyGems
+cd /tmp
+wget http://rubyforge.org/frs/download.php/57643/rubygems-1.3.4.tgz
+tar zxvf rubygems-1.3.4.tgz
+cd rubygems-1.3.4
+sudo ruby setup.rb
+sudo ln -sfv /usr/bin/gem1.8 /usr/bin/gem
+cd /tmp
+rm -r /tmp/rubygems*
+
+# Install chef and chef server (+ their dependencies)
+sudo apt-get install chef chef-server 

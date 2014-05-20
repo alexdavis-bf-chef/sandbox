@@ -1,0 +1,8 @@
+maintainer       "Tim Dysinger"
+maintainer_email "tim@dysinger.net"
+license          "Apache2"
+description      "Cookbook for Chef & Chef Server"
+description      "Installs/Configures Chef"
+version          "0.0.1"
+supports         "ubuntu"
+depends          "apt"
