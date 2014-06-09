@@ -1,0 +1,24 @@
+# to read in
+# sfdisk -d /dev/xvdb > xvdb.out
+# to partition disk
+# sfdisk /dev/xvdb < xvdb.out
+#
+# add this to the end of rc.local before the exit 0
+
+sfdisk /dev/xvdb << EOF
+
+# partition table of /dev/xvdb
+unit: sectors
+
+/dev/xvdb1 : start=     2048, size= 41943040, Id=83
+/dev/xvdb2 : start= 41945088, size= 20954112, Id=82
+/dev/xvdb3 : start=        0, size=        0, Id= 0
+/dev/xvdb4 : start=        0, size=        0, Id= 0
+
+EOF
+
+yes | mkfs -q -t ext4 /dev/xvdb1
+mkswap /dev/xvdb2
+swapon -a
+mount -a
+
