@@ -1,0 +1,50 @@
+<map id="CPResponder" name="CPResponder">
+<area shape="rect" id="node3" href="$interface_c_p_application.html" title="CPApplication" alt="" coords="310,359,421,390"/>
+<area shape="rect" id="node4" href="$interface_c_p_document.html" title="CPDocument" alt="" coords="313,414,418,445"/>
+<area shape="rect" id="node5" href="$interface_c_p_popover.html" title="CPPopover" alt="" coords="320,469,410,499"/>
+<area shape="rect" id="node6" href="$interface_c_p_view.html" title="CPView" alt="" coords="331,523,399,554"/>
+<area shape="rect" id="node42" href="$interface_c_p_view_controller.html" title="CPViewController" alt="" coords="299,578,432,609"/>
+<area shape="rect" id="node44" href="$interface_c_p_window.html" title="CPWindow" alt="" coords="321,633,409,663"/>
+<area shape="rect" id="node49" href="$interface_c_p_window_controller.html" title="CPWindowController" alt="" coords="289,687,442,718"/>
+<area shape="rect" id="node2" href="$class_c_p_object.html" title="The root class from which most classes are subclassed. " alt="" coords="5,523,85,554"/>
+<area shape="rect" id="node7" href="$interface_c_p_accordion_view.html" title="CPAccordionView" alt="" coords="505,86,639,117"/>
+<area shape="rect" id="node8" href="$interface_c_p_box.html" title="CPBox" alt="" coords="541,141,603,171"/>
+<area shape="rect" id="node9" href="$interface_c_p_button_bar.html" title="CPButtonBar" alt="" coords="522,195,622,226"/>
+<area shape="rect" id="node10" href="$interface_c_p_clip_view.html" title="CPClipView" alt="" coords="525,250,619,281"/>
+<area shape="rect" id="node11" href="$interface_c_p_collection_view.html" title="CPCollectionView" alt="" coords="506,305,638,335"/>
+<area shape="rect" id="node12" href="$interface_c_p_control.html" title="CPControl" alt="" coords="529,359,615,390"/>
+<area shape="rect" id="node33" href="$interface_c_p_flash_view.html" title="CPFlashView" alt="" coords="522,414,622,445"/>
+<area shape="rect" id="node34" href="$interface_c_p_progress_indicator.html" title="CPProgressIndicator" alt="" coords="497,469,647,499"/>
+<area shape="rect" id="node35" href="$interface_c_p_scroll_view.html" title="CPScrollView" alt="" coords="520,523,624,554"/>
+<area shape="rect" id="node36" href="$interface_c_p_shadow_view.html" title="CPShadowView" alt="" coords="513,578,631,609"/>
+<area shape="rect" id="node37" href="$interface_c_p_split_view.html" title="CPSplitView" alt="" coords="524,633,620,663"/>
+<area shape="rect" id="node38" href="$interface_c_p_table_cell_view.html" title="CPTableCellView" alt="" coords="509,687,635,718"/>
+<area shape="rect" id="node39" href="$interface_c_p_table_header_view.html" title="CPTableHeaderView" alt="" coords="498,742,646,773"/>
+<area shape="rect" id="node40" href="$interface_c_p_tab_view.html" title="CPTabView" alt="" coords="526,797,618,827"/>
+<area shape="rect" id="node41" href="$interface_c_p_web_view.html" title="CPWebView" alt="" coords="524,851,620,882"/>
+<area shape="rect" id="node13" href="$interface_c_p_browser.html" title="CPBrowser" alt="" coords="736,31,824,62"/>
+<area shape="rect" id="node14" href="$interface_c_p_button.html" title="CPButton" alt="" coords="740,86,820,117"/>
+<area shape="rect" id="node19" href="$interface_c_p_color_well.html" title="CPColorWell" alt="" coords="730,141,830,171"/>
+<area shape="rect" id="node20" href="$interface_c_p_date_picker.html" title="CPDatePicker" alt="" coords="727,195,833,226"/>
+<area shape="rect" id="node21" href="$interface_c_p_image_view.html" title="CPImageView" alt="" coords="726,250,834,281"/>
+<area shape="rect" id="node22" href="$interface_c_p_level_indicator.html" title="CPLevelIndicator" alt="" coords="716,305,844,335"/>
+<area shape="rect" id="node23" href="$interface_c_p_rule_editor.html" title="CPRuleEditor" alt="" coords="728,359,832,390"/>
+<area shape="rect" id="node25" href="$interface_c_p_scroller.html" title="CPScroller" alt="" coords="737,414,823,445"/>
+<area shape="rect" id="node26" href="$interface_c_p_segmented_control.html" title="CPSegmentedControl" alt="" coords="701,469,859,499"/>
+<area shape="rect" id="node27" href="$interface_c_p_slider.html" title="CPSlider" alt="" coords="743,523,817,554"/>
+<area shape="rect" id="node28" href="$interface_c_p_stepper.html" title="CPStepper" alt="" coords="736,578,824,609"/>
+<area shape="rect" id="node29" href="$interface_c_p_table_view.html" title="CPTableView" alt="" coords="729,633,831,663"/>
+<area shape="rect" id="node31" href="$interface_c_p_text_field.html" title="CPTextField" alt="" coords="732,687,828,718"/>
+<area shape="rect" id="node15" href="$interface_c_p_check_box.html" title="CPCheckBox" alt="" coords="930,5,1030,35"/>
+<area shape="rect" id="node16" href="$interface_c_p_disclosure_button.html" title="CPDisclosureButton" alt="" coords="907,59,1053,90"/>
+<area shape="rect" id="node17" href="$interface_c_p_pop_up_button.html" title="CPPopUpButton" alt="" coords="919,114,1041,145"/>
+<area shape="rect" id="node18" href="$interface_c_p_radio.html" title="CPRadio" alt="" coords="943,169,1017,199"/>
+<area shape="rect" id="node24" href="$interface_c_p_predicate_editor.html" title="CPPredicateEditor is a subclass of CPRuleEditor that is specialized for editing CPPredicate objects..." alt="" coords="912,359,1048,390"/>
+<area shape="rect" id="node30" href="$interface_c_p_outline_view.html" title="CPOutlineView" alt="" coords="923,633,1037,663"/>
+<area shape="rect" id="node32" href="$interface_c_p_combo_box.html" title="CPComboBox" alt="" coords="926,687,1034,718"/>
+<area shape="rect" id="node43" href="$interface_c_p_collection_view_item.html" title="CPCollectionViewItem" alt="" coords="491,906,653,937"/>
+<area shape="rect" id="node45" href="$interface_c_p_panel.html" title="CPPanel" alt="" coords="536,961,608,991"/>
+<area shape="rect" id="node46" href="$interface_c_p_color_panel.html" title="CPColorPanel" alt="" coords="726,906,834,937"/>
+<area shape="rect" id="node47" href="$interface_c_p_open_panel.html" title="CPOpenPanel" alt="" coords="727,961,833,991"/>
+<area shape="rect" id="node48" href="$interface_c_p_save_panel.html" title="CPSavePanel" alt="" coords="730,1015,830,1046"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CPArrayController" name="CPArrayController">
+<area shape="rect" id="node5" href="$interface_c_p_dictionary_controller.html" title="CPDictionaryController" alt="" coords="5,326,173,357"/>
+<area shape="rect" id="node2" href="$interface_c_p_object_controller.html" title="CPObjectController" alt="" coords="17,166,161,197"/>
+<area shape="rect" id="node3" href="$interface_c_p_controller.html" title="CPController" alt="" coords="38,86,140,117"/>
+<area shape="rect" id="node4" href="$class_c_p_object.html" title="The root class from which most classes are subclassed. " alt="" coords="49,6,128,37"/>
+</map>

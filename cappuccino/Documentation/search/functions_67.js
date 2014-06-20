@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['generalpasteboard',['generalPasteboard',['../interface_c_p_pasteboard.html#a085d41e5f0d2c94888b0fab4647e07b8',1,'CPPasteboard']]],
+  ['generatesdecimalnumbers',['generatesDecimalNumbers',['../category_c_p_number_formatter_07_c_p_synthesized_accessors_08.html#a37c0e58680408f86f61c773e0808debc',1,'CPNumberFormatter(CPSynthesizedAccessors)::generatesDecimalNumbers()'],['../interface_c_p_number_formatter.html#a37c0e58680408f86f61c773e0808debc',1,'CPNumberFormatter::generatesDecimalNumbers()']]],
+  ['getcontrolpointatindex_3avalues_3a',['getControlPointAtIndex:values:',['../interface_c_a_media_timing_function.html#a8879c053fde4d6ede75d73d4640af3f9',1,'CAMediaTimingFunction']]],
+  ['getindexes_3amaxcount_3ainindexrange_3a',['getIndexes:maxCount:inIndexRange:',['../interface_c_p_index_set.html#a4395208575d525f1d18a737681e35a9a',1,'CPIndexSet']]],
+  ['getlinedash_3acount_3aphase_3a',['getLineDash:count:phase:',['../interface_c_p_bezier_path.html#a87d73f62bf183ff34fe36bc128fbe584',1,'CPBezierPath']]],
+  ['getlinedash_3aphase_3a',['getLineDash:phase:',['../interface_c_p_bezier_path.html#adccd59967e7459f497c6231306547ec6',1,'CPBezierPath']]],
+  ['getobjectvalue_3aforstring_3aerrordescription_3a',['getObjectValue:forString:errorDescription:',['../interface_c_p_byte_count_formatter.html#a1895b4cfe52ef4e767c8020a449de075',1,'CPByteCountFormatter::getObjectValue:forString:errorDescription:()'],['../interface_c_p_formatter.html#a75942863122f09c6931aac5d7226b1ff',1,'CPFormatter::getObjectValue:forString:errorDescription:()'],['../interface_c_p_number_formatter.html#a811ca6f707a74114268097f6bd40a2c7',1,'CPNumberFormatter::getObjectValue:forString:errorDescription:()']]],
+  ['globalscrollerstyle',['globalScrollerStyle',['../interface_c_p_scroll_view.html#a8d5fec5af0b7289a4dc31cab53f28e31',1,'CPScrollView']]],
+  ['goback',['goBack',['../interface_c_p_web_view.html#abd374c4bcaa46a4fa6f5bf4dbc585a7b',1,'CPWebView']]],
+  ['goback_3a',['goBack:',['../interface_c_p_web_view.html#a21ec40386ef6e741699330faad660bfa',1,'CPWebView']]],
+  ['goforward',['goForward',['../interface_c_p_web_view.html#aefec5c099ced2b3c44459d1e058e49a9',1,'CPWebView']]],
+  ['goforward_3a',['goForward:',['../interface_c_p_web_view.html#a408e2aaceac9df7ca49de38f4c68c6d5',1,'CPWebView']]],
+  ['graphicscontextwithgraphicsport_3aflipped_3a',['graphicsContextWithGraphicsPort:flipped:',['../interface_c_p_graphics_context.html#aeef16a5f5c5da34a33f312b1eb42bf99',1,'CPGraphicsContext']]],
+  ['graphicsport',['graphicsPort',['../interface_c_p_graphics_context.html#a92895bd939c04da463d02425bec83f0b',1,'CPGraphicsContext']]],
+  ['graycolor',['grayColor',['../interface_c_p_color.html#a319bf37d8c2bbd1cd5d07f107a608be8',1,'CPColor']]],
+  ['greencolor',['greenColor',['../interface_c_p_color.html#ac0573c076293a3beea1d22b3882f1a4f',1,'CPColor']]],
+  ['greencomponent',['greenComponent',['../interface_c_p_color.html#accf29cf4884436d3b4c3568fa0afb971',1,'CPColor']]],
+  ['groupinglevel',['groupingLevel',['../interface_c_p_undo_manager.html#a4c3a377f09c0cf9e98b0679e680ccaa4',1,'CPUndoManager']]],
+  ['groupingseparator',['groupingSeparator',['../category_c_p_number_formatter_07_c_p_synthesized_accessors_08.html#a602f03c9234b14166edc396deba566ae',1,'CPNumberFormatter(CPSynthesizedAccessors)::groupingSeparator()'],['../interface_c_p_number_formatter.html#a602f03c9234b14166edc396deba566ae',1,'CPNumberFormatter::groupingSeparator()']]],
+  ['groupsbyevent',['groupsByEvent',['../interface_c_p_undo_manager.html#abf7c504ba2471ce1e9d89881af690ea8',1,'CPUndoManager']]]
+];
